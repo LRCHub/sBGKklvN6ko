@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Cry More",
+  "base_artist": "Raujika",
+  "createdAt": "2026-03-24T04:43:59.859602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "survival dAnce ~no no cry more~",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/01_survival_dAnce_~no_no_cry_more~_BiS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "survival dAnce -no no cry more-",
+      "artist": "BiS (Japan)",
+      "has_synced": false,
+      "path": "select/02_survival_dAnce_-no_no_cry_more-_BiS_(Japan).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "survival dAnce ~no no cry more~",
+      "artist": "BiS (Japan)",
+      "has_synced": false,
+      "path": "select/03_survival_dAnce_~no_no_cry_more~_BiS_(Japan).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "survival dAnce ~no no cry more~ (original single chart mix)",
+      "artist": "TRF",
+      "has_synced": false,
+      "path": "select/04_survival_dAnce_~no_no_cry_more~_(original_single_chart_mix)_TRF.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "survival dAnce ~no no cry more~(DIMA REMIX)",
+      "artist": "TRF",
+      "has_synced": true,
+      "path": "select/05_survival_dAnce_~no_no_cry_more~(DIMA_REMIX)_TRF.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Survival Dance (No No Cry More) (Dima Remix)",
+      "artist": "TRF",
+      "has_synced": true,
+      "path": "select/06_Survival_Dance_(No_No_Cry_More)_(Dima_Remix)_TRF.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "survival dAnce ~no no cry more~ (Eurobeat Mix)",
+      "artist": "TRF",
+      "has_synced": false,
+      "path": "select/07_survival_dAnce_~no_no_cry_more~_(Eurobeat_Mix)_TRF.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cry More Baby (เสียใจกี่โมง)",
+      "artist": "Pretzelle",
+      "has_synced": false,
+      "path": "select/08_Cry_More_Baby_(เสียใจกี่โมง)_Pretzelle.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "survival dAnce ~No No Cry More~ (Dima Remix)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/09_survival_dAnce_~No_No_Cry_More~_(Dima_Remix)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Survival Dance ~No No Cry More~ (Eurobeat Mix)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/10_Survival_Dance_~No_No_Cry_More~_(Eurobeat_Mix)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "survival dAnce ～no no cry more～",
+      "artist": "Call of Artemis",
+      "has_synced": true,
+      "path": "select/11_survival_dAnce_~no_no_cry_more~_Call_of_Artemis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "survival dAnce ～no no cry more～",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/12_survival_dAnce_~no_no_cry_more~_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Survival Dance (No No Cry More) (Dima Remix)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/13_Survival_Dance_(No_No_Cry_More)_(Dima_Remix)_Various_Artists.lrc"
+    }
+  ]
+}
