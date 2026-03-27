@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Cry More",
   "base_artist": "Raujika",
-  "createdAt": "2026-03-24T04:44:31.064769Z",
+  "createdAt": "2026-03-27T16:24:44.353007Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "Various Artists",
       "has_synced": true,
       "path": "select/13_Survival_Dance_(No_No_Cry_More)_(Dima_Remix)_Various_Artists.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Cry More",
+      "artist": "Raujika",
+      "has_synced": false,
+      "path": "select/localdb_01_Cry_More_Raujika.txt",
+      "repo_name": "sBGKklvN6ko"
     }
   ]
 }
